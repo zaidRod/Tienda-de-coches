@@ -1,6 +1,6 @@
 # Car Dealership Ordering System
 
-This project is a simple car dealership ordering system developed in Visual Basic. It uses Google Forms for order submission and stores the orders in a Microsoft Access database.
+This project is a simple car dealership ordering system developed in Visual Basic. It uses Windows Forms  for order submission and stores the orders in a Microsoft Access database.
 
 ## Features
 
