@@ -1,0 +1,12 @@
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\bin\Debug\Examen Zaid Autos.exe.config
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\bin\Debug\Examen Zaid Autos.exe
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\bin\Debug\Examen Zaid Autos.pdb
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\bin\Debug\Examen Zaid Autos.xml
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen Zaid Autos.vbproj.AssemblyReference.cache
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen_Zaid_Autos.Form1.resources
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen_Zaid_Autos.Resources.resources
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen Zaid Autos.vbproj.GenerateResource.cache
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen Zaid Autos.vbproj.CoreCompileInputs.cache
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen Zaid Autos.exe
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen Zaid Autos.xml
+C:\Users\tarde\source\repos\Examen Zaid Autos\Examen Zaid Autos\obj\Debug\Examen Zaid Autos.pdb
